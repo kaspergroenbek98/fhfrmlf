@@ -27,3 +27,9 @@ Shuffles the rows of a CSV-file and overwrites the original file.
 
 ### create-train-test-split.py
 Takes a CSV-file and creates two new files containing a test and train subset.
+
+## How to run
+
+### Prerequisites
+
+### Guide
